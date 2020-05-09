@@ -9,6 +9,8 @@ readme = "README.md"
 links = "bibutils"
 license = "GPL-3.0"
 repository = "https://github.com/latex-lsp/bibutils-sys"
+keywords = ["ffi", "bibutils"]
+categories = ["external-ffi-bindings"]
 edition = "2018"
 exclude = [
     ".github/*"
