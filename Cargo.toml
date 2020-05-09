@@ -7,7 +7,7 @@ authors = [
     "Patrick Förster <pfoerster@users.noreply.github.com>"]
 readme = "README.md"
 links = "bibutils"
-license = "GPLv3"
+license = "GPL-3.0"
 repository = "https://github.com/latex-lsp/bibutils-sys"
 edition = "2018"
 
