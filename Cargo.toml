@@ -1,0 +1,24 @@
+[package]
+name = "bibutils-sys"
+version = "0.1.0"
+description = "Rust bindings for bibutils, a program for bibliography format interconversion."
+authors = [
+    "Eric Förster <efoerster@users.noreply.github.com>", 
+    "Patrick Förster <pfoerster@users.noreply.github.com>"]
+readme = "README.md"
+links = "bibutils"
+license = "GPLv3"
+repository = "https://github.com/latex-lsp/bibutils-sys"
+edition = "2018"
+
+[lib]
+doctest = false
+
+[dependencies]
+
+[dev-dependencies]
+indoc = "0.3"
+tempfile = "3.1"
+
+[build-dependencies]
+cc = "1.0"
