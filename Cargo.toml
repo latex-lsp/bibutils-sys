@@ -10,6 +10,9 @@ links = "bibutils"
 license = "GPL-3.0"
 repository = "https://github.com/latex-lsp/bibutils-sys"
 edition = "2018"
+exclude = [
+    ".github/*"
+]
 
 [lib]
 doctest = false
