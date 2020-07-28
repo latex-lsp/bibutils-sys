@@ -22,7 +22,7 @@ doctest = false
 [dependencies]
 
 [dev-dependencies]
-indoc = "0.3"
+indoc = "1.0"
 tempfile = "3.1"
 
 [build-dependencies]
