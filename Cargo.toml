@@ -23,7 +23,7 @@ doctest = false
 
 [dev-dependencies]
 indoc = "0.3"
-tempfile = "3.2"
+tempfile = "3.3"
 
 [build-dependencies]
 cc = "1.0.68"
